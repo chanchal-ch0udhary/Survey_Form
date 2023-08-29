@@ -1,6 +1,10 @@
-# Survey_Form
-I have created a survey form using HTML and CSS for my internship.
-I am collecting surveys from users and saving them through email.
+TASK-1 CODE ALPHA
+
+MAKE A SURVEY FORM
+
+Create a multi-page survey and make sure that the states save between
+pages. Eventually, make sure the survey can submit the data
+somewhere, whether via email or stored in a database.
 
 IDE USED:VS Code
 
